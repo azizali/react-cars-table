@@ -1,0 +1,19 @@
+.bg-blue {
+  background-color: #5555f5;
+  color: #ffffff;
+}
+
+th{
+  text-transform: uppercase
+}
+
+td, th{
+  padding: 7px;
+  border: 1px solid #bababa;
+}
+
+table{
+  padding: 10px;
+  border: 1px solid #bababa;
+  border-collapse: collapse;
+}
